@@ -1,0 +1,47 @@
+{
+  "usuarios": [
+    {
+      "nombre": "joaco",
+      "contrasena": "contrasena",
+      "id": "ac8d"
+    },
+    {
+      "id": "157c",
+      "nombre": "",
+      "contrasena": ""
+    },
+    {
+      "id": "17b6",
+      "nombre": "",
+      "contrasena": ""
+    },
+    {
+      "id": "74a1",
+      "nombre": "joacoa",
+      "correo": "jo@gmail.com",
+      "telefono": 123456789,
+      "contrasena": "joaco1234"
+    },
+    {
+      "id": "98b7",
+      "nombre": "joaco1234",
+      "correo": "jo@gmail.com",
+      "telefono": 123412349,
+      "contrasena": "joaco1234"
+    },
+    {
+      "id": "a096",
+      "nombre": "alonso",
+      "correo": "alonso@gmail.com",
+      "telefono": 123456789,
+      "contrasena": "joaco1234"
+    },
+    {
+      "id": "839a",
+      "nombre": "Benja10",
+      "correo": "g@gmail.com",
+      "telefono": 123234543,
+      "contrasena": "210520821"
+    }
+  ]
+}
